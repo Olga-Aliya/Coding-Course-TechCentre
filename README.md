@@ -3,3 +3,4 @@
 # _Cap Theorem_ - a concept that a distributed database system can only have 2 of the 3: Consistency, Availability, Partition Tolerance; 
 # _Cherry Pick up_ - choose a commit from one branch and apply it onto another.
 
+![Image alt](https://raw.githubusercontent.com/Gregwar/Image/master/images/error.jpg)
